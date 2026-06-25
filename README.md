@@ -17,7 +17,7 @@ AI-powered meeting and content summarization platform.
 - SEO-first architecture
 - Production-ready SaaS
 
-Live: https://summify.app *(veya kendi domainin)*
+Live: https://summify.app 
 
 ---
 
